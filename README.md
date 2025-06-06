@@ -18,7 +18,7 @@
 <hr />
 
 #### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cybermoon21k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kamenika-govender-7280a4219) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kamenika1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamenikagovender21@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badgelogo=Instagram&logoColor=white)](https://instagram.com/cybermoon21k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badgelogo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kamenika-govender-7280a4219) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badgelogo=X&logoColor=white)](https://x.com/Kamenika1) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badgelogo=gmail&logoColor=white)](mailto:kamenikagovender21@gmail.com) 
 
 <hr/>
 
