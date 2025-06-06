@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Kamenika ✨ 
+Frontend Developer in training ⚡ || Aspiring Full-stack Developer 💻 || [SheCodes](https://www.shecodes.io/graduates/69543-kamenikia-govender) student
 
-<!--
-**cybermoon21k/cybermoon21k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏾‍💻 Certifications:<br />
+- [SheCodes Basics](https://www.shecodes.io/certificates/0c68bc6d21cebc121e88a917d1ae16ae)
+- [SheCodes Basics Add-on](https://www.shecodes.io/certificates/0ce8e3a9c0dbe0afed92e1510ff3c4b9)
+- [SheCodes Plus](https://www.shecodes.io/certificates/b680cf34558c1b3007e7fd8f04263abc)
+💻 Learning: Frontend Development (HTML, CSS, JS)<br />
+🎯 Goals: Building a solid portfolio to break into tech as a junior web developer<br/>
+🌱 Currently working on: My Portfolio + [SheCodes "My Dream House" Challenge](https://www.shecodes.io/contests/your-dream-house-challenge)
+💭 Currently achieving: SheCodes Plus AI & SheCodes Plus Add-on certificates<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Kamenika's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybermoon21k&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
