@@ -1,6 +1,6 @@
 # Hi I'm Kamenika ✨ 
 
-#### Frontend Developer in training ⚡ || Aspiring Full-stack Developer 💻 || [SheCodes](https://www.shecodes.io/graduates/69543-kamenikia-govender) student
+#### Frontend Developer in training ⚡ || Aspiring Full-stack Developer 💻 || [SheCodes](https://www.shecodes.io/graduates/69543-kamenikia-govender) student 👩🏾‍💻
 ##### 📍 Durban, Kwazulu Natal, South Africa 🇿🇦
 
 💻 Learning: Frontend Development (HTML, CSS, JS)<br />
