@@ -1,7 +1,7 @@
 # A Quantum Leap into My Ocean of Imagination and Code 🌊
 
-<p style="text-align:center'>
-  <img src="images/purple-clouds" />
+<p style="text-align:center">
+  <img src="purple-clouds" style="width:100%" />
 </p>
 
 ### Hi, I’m Kamenika ✨
