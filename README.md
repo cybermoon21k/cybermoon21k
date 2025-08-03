@@ -4,7 +4,7 @@
 
 #### 📍 Durban, Kwazulu Natal, South Africa 🇿🇦
 
-#### Frontend Developer in training ⚡ || Aspiring Full-stack Developer 💻 || [SheCodes](https://www.shecodes.io/graduates/69543-kamenikia-govender) student 🤓 
+#### Frontend Developer in training ⚡ || Aspiring Full-stack Developer 💻 || ![SheCodes](https://www.shecodes.io/graduates/69543-kamenikia-govender) student 🤓 
 
 ##  👩🏾‍💻 What I Do
 - 💻 Learning: Frontend Development (HTML, CSS, JavaScript)
@@ -12,12 +12,12 @@
 - 💭 Currently achieving: SheCodes Plus AI & SheCodes Plus Add-on certificates
 
 ## 🎓 My Tech Journey So Far
--	SheCodes Basics
--	CFG Kickstarter Course – Python & Apps
--	CFG Tech Taster – Intro To Git & GIthub
--	SheCodes Basics Add-On
--	SheCodes Plus
--	FNB App Academy Certificate
+-	![SheCodes Basics](https://www.shecodes.io/certificates/0c68bc6d21cebc121e88a917d1ae16ae)
+-	![CFG Kickstarter Course – Python & Apps]()
+-	![CFG Tech Taster – Intro To Git & GIthub]()
+-	![SheCodes Basics Add-On](https://www.shecodes.io/certificates/0ce8e3a9c0dbe0afed92e1510ff3c4b9)
+-	![SheCodes Plus](https://www.shecodes.io/certificates/b680cf34558c1b3007e7fd8f04263abc)
+-	![FNB App Academy Certificate]()
 
 ## 🚀 Current Goals
 - 🖼️ Build and publish a professional web portfolio
